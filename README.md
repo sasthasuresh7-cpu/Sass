@@ -1,1 +1,4 @@
-The focal entity HONGKONG TRIPLE SEVENS INTERACTIVE, located in Hong Kong, operates in the gaming sector as an app developer specialising in casino games. The counterparty T7 GAMES INC also operates within the gaming and software development domain, with its business activities relating to the development and publishing of computer and mobile gaming applications. Based on the similarity in their industry profiles, the entities appear to share a legitimate business relationship connected to gaming software development, distribution, or associated services. Although the counterparty’s address initially appeared as a China location, historical transactions and public-domain sources confirmed a Singapore address, which has been considered for this review. The entity is registered in Singapore, while its banking address is in the USA, resulting in an inconsistent-address DS trigger; however, since the business activity and relationship between the entities are clearly identified, this risk is mitigated.
+ 
+
+
+LINED PIPE SYSTEMS DO BRASIL INDUSTRIA E COMERCIO LTDA | CNPJ 40.445.541/0001-48 | QualCNPJ https://share.google/XjaGlhwYHiBKZZVY6
