@@ -106,3 +106,5 @@ No adverse media, sanctions concerns, or inconsistencies were observed.
 
 
 Based on the above, while the jurisdictional risk remains inherently elevated, the overall transactional risk is considered mitigated due to clear entity identification, legitimate business purpose, proportionality of transaction amounts, and a fully established inter-company relationship. No suspicious indicators were identified that would warrant further escalation.
+
+KEM Tech is engaged in the manufacturing and development of secondary (rechargeable) battery components—specifically prismatic and circular can battery parts—as well as IR filter components for cameras and electronic devices. The company focuses on supplying essential parts for future-oriented industries within the global electronics and battery sectors.
