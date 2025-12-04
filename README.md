@@ -80,9 +80,29 @@ The associated alert events were reviewed thoroughly in the context of the entit
 
 The activity does not exhibit unusual or suspicious characteristics.
 
-The round-dollar nature and recurring originator/beneficiary pattern are consistent with the operational requirements of a regulated pension and benefits administrator.
-
-All risk scenarios associated with the detection have been adequately mitigated.
+The round-dollar nature and recurring or
 
 
-Based on the overall review and analysis, the case is concluded as Risk Irrelevant and may be closed.
+
+The focal entity QUESERÍA DOS LAGUNAS S.A. de C.V., incorporated in Mexico, was identified through public domain sources as a company engaged in the manufacturing, processing, and distribution of dairy products, primarily cheese and related food items. The Spanish term “Quesería” directly refers to a cheese or dairy-processing facility, which aligns with the company’s operational nature as a food and dairy manufacturer. The counterparty QUESERIA DOS LAGUNAS carries the same naming structure, indicating that both entities belong to the same corporate group. Based on this and the observed payment pattern, the relationship is classified as inter-company.
+
+A total of 12 outward remittances were initiated by the focal from 24 March 2025 to 03 November 2025, amounting to USD 1,726,000. All transactions were routed to the counterparty entity under the same corporate name, further reinforcing the intra-group nature of the transfers. The OBI reference “PAGO DE INTERESES O COMISIONES”, which translates to “Payment of interest or commissions/fees,” provides a clear explanation of the payment purpose. This indicates that the remittances relate to financial obligations such as inter-company interest settlements, fee payments, or internal accounting adjustments commonly observed within multinational or multi-entity corporate structures.
+
+Despite the relatively high cumulative transaction value, the focal entity reports an annual revenue of approximately USD 78.31 million, suggesting that the remitted amounts are not disproportionate and fall within a reasonable operational scale for a company of this size. The transaction trend also shows no rapid circularity, irregular spikes, or deviation from normal inter-company financial activity.
+
+Mexico is acknowledged as a high-risk jurisdiction, primarily due to elevated financial crime exposure and regulatory vulnerabilities. However, in this case, the following mitigating factors significantly reduce the overall risk:
+
+The focal entity is conclusively identified through public domain sources.
+
+The counterparty shares the same corporate name, confirming a legitimate inter-company relationship.
+
+100% of the transactions fall under the inter-company category.
+
+A clear purpose of payment (“interest or commission payments”) is established.
+
+The transaction amounts are proportionate when compared to the company’s annual revenue.
+
+No adverse media, sanctions concerns, or inconsistencies were observed.
+
+
+Based on the above, while the jurisdictional risk remains inherently elevated, the overall transactional risk is considered mitigated due to clear entity identification, legitimate business purpose, proportionality of transaction amounts, and a fully established inter-company relationship. No suspicious indicators were identified that would warrant further escalation.
