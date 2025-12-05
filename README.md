@@ -108,3 +108,11 @@ No adverse media, sanctions concerns, or inconsistencies were observed.
 Based on the above, while the jurisdictional risk remains inherently elevated, the overall transactional risk is considered mitigated due to clear entity identification, legitimate business purpose, proportionality of transaction amounts, and a fully established inter-company relationship. No suspicious indicators were identified that would warrant further escalation.
 
 KEM Tech is engaged in the manufacturing and development of secondary (rechargeable) battery components—specifically prismatic and circular can battery parts—as well as IR filter components for cameras and electronic devices. The company focuses on supplying essential parts for future-oriented industries within the global electronics and battery sectors.
+
+
+
+
+
+
+The focal entity, Blue Import and Export Inc. (United States), is engaged in the import and export of fish and seafood products. The counterparty, Fujian Rongjiang Import & Export Co. Ltd. (China), operates in a similar industry, dealing in the import and export of aquatic products, seafood, and processed food items. Given the alignment of their business lines within the global seafood supply chain, it is reasonable to infer a commercial trading relationship between the two entities. Blue Import and Export Inc. likely sources seafood or related processed products from Fujian Rongjiang Import & Export as part of its procurement and distribution operations, or alternatively, supplies goods to them depending on market demand. The nature of both entities’ operations supports the conclusion that the transactions represent legitimate cross-border trade activities within the seafood import-export sector.
+
