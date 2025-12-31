@@ -1,6 +1,26 @@
+.
 
 
 
 
-
-The focal individual has been positively identified through the LexisNexis report. As per the available information, the focal maintains a reported household income of USD 119,588 and owns a residential property valued at approximately USD 545,936, with multiple mortgages recorded, indicating established financial exposure and credit activity. The individual has several business associations, of which only a limited number were selected for detailed review. The focal is employed as a Chief Executive Officer in multiple entities, including Dewan Enterprise Inc., Dewan Foundation Inc., and SBIT Inc., which supports the presence of diversified income streams and business-related financial activity. During the review period from 25 August to 9 September, the focal remitted a total amount of USD 488,650. Although the aggregate transaction value appears elevated, considering the focal’s household income, property holdings, mortgage profile, and active business involvement, the risk associated with higher-value transactions is reasonably mitigated. Additionally, the transactions consist of 100% interpersonal transfers, and the Originator to Beneficiary Information (OBI) clearly specifies the purpose of the transactions, further supporting transaction transparency. The detection scenario for FTN – Recurring Originator and Beneficiary was triggered due to repeated interpersonal transfers; however, such activity is common for individuals, particularly where relationships and purposes are clearly established. The involvement of a high-risk jurisdiction, Bangladesh, was also noted; however, the counterparty has been identified, and the OBI references clearly outline the transaction purpose. The mere presence of a high-risk jurisdiction, in isolation, does not constitute a concern, as it is common for individuals to reside in or maintain accounts within such jurisdictions. Based on the holistic assessment of customer profile, transaction behavior, financial capacity, and available corroborative information, the identified risks are considered mitigated. Accordingly, the case is recommended for closure as risk-irrelevant at this stage.
+Detection Scenarios (List Triggered DS):
+The alert was generated due to multiple outbound remittance transactions conducted by the focal entity within a defined period, indicating recurring international payments to the same counterparty.
+Justification for CP Selection (If any):
+The counterparty, JCC International Footwear Co. Ltd, was selected for review as it is the beneficiary of multiple outbound USD transactions from the focal entity. The review was conducted to assess the legitimacy of the business relationship and the nature of payments.
+Profile – Main Entity & Counterparty Details / Relationship:
+The focal entity, Dolls Kill Inc, is a US-based online retail company operating in the public domain. The company is engaged in the sale of apparel, footwear, accessories, and related consumer products through its online platform.
+The counterparty, JCC International Footwear Co. Ltd, is located in Hong Kong and operates as a wholesale trader of footwear. The relationship between the focal entity and the counterparty appears to be a legitimate business relationship, where the counterparty acts as a supplier/vendor for footwear products sold by the focal entity. The nature of the relationship aligns with the focal entity’s stated line of business.
+Transaction Analysis / Trend & Pattern:
+A total of 8 outbound transactions amounting to USD 350,000 were identified during the review period from 19-Sep-2025 to 05-Nov-2025. All transactions were executed in USD and remitted from the focal entity’s account to the counterparty’s account held with Standard Chartered Bank, Hong Kong.
+The transactions exhibit a consistent pattern of recurring payments, which is reasonable and expected in the context of ongoing trade activities. The remittance remarks indicate invoice payments/remittances, supporting the view that the transactions are trade-related. No unusual structuring, abrupt value spikes, or deviations from expected business behavior were observed.
+Red Flags (If any):
+No material red flags were identified. While the transactions involve a foreign jurisdiction (Hong Kong), the country is commonly used for international trade activities, and the transaction pattern remains consistent with legitimate wholesale business operations.
+Watchlist Screening (Accuity / Kharon / World Check) & Adverse Hits (If any):
+Watchlist screening conducted on both the focal entity and the counterparty did not return any adverse hits or negative media. No sanctions, PEP, or other high-risk indicators were identified.
+Prior RR (If any):
+No prior Risk Reviews or alerts were identified for the focal entity as per ECM records.
+IIG/RFI Response (If any):
+Not applicable, as sufficient information was available to complete the review and no additional clarification was required.
+Final Recommendation / Conclusion:
+Based on the review of the entity profiles, transaction behavior, stated business activities, and screening results, the transactions appear to be legitimate business-related payments consistent with the focal entity’s retail operations. The counterparty relationship is reasonable and supported by the nature of the transactions. No suspicious activity has been identified.
+Accordingly, the alert is recommended to be closed as no AML concern is observed.
