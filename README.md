@@ -1,21 +1,4 @@
 
 
 
-
-Justification for CP Selection (If any):
-The counterparty IMPERIAL STAR SOLAR (CAMBODIA) CO., LTD was selected for review due to repeated high-value wire transactions and round-amount payment patterns received from the focal entity IC STAR SOLAR (USA) LLC during the review period.
-Profile – Main Entity & Counterparty Details / Relationship:
-The focal entity IC STAR SOLAR (USA) LLC operates in the renewable energy sector, primarily engaged in solar equipment and module-related activities. Public domain review indicates that IC STAR SOLAR (USA) LLC and IMPERIAL STAR SOLAR (USA) LLP appear to be associated entities, based on closely aligned naming conventions, similar business operations, and shared industry focus.
-The counterparty IMPERIAL STAR SOLAR (CAMBODIA) CO., LTD, identified from public domain sources, is a manufacturer of photovoltaic (PV) solar products, including high-efficiency solar cells, silicon wafers, and solar modules. The similarity in entity names and alignment in business activities suggests that the Cambodian entity operates as part of the same corporate group as the US entity, with different jurisdictions supporting different operational functions (manufacturing vs. commercial/financial operations).
-Transaction Analysis / Trend & Pattern:
-During the review period from 15-Sep-2025 to 15-Dec-2025, the focal entity remitted 19 wire transactions totaling USD 5,929,200 to the counterparty. The transactions were processed via JPMorgan Chase Bank N.A. (US) and Advanced Bank of Asia Limited (KH). The OBI/BBI details explicitly state “Payment for Solar Module”, which is consistent with the declared line of business of both entities. The recurring nature and round-amount structure of the payments align with commercial trade settlement patterns between related group entities.
-Red Flags (If any):
-No material red flags were identified beyond the system-generated alerts related to recurring transactions and round-amount wires.
-Watchlist Screening (Accuity / Kharon / World-Check) & Adverse Hits (If any):
-Watchlist and adverse media screening conducted on the focal entity and counterparty did not return any sanctions, PEP, or adverse media matches.
-Prior RR (If any):
-No prior risk review records of concern were identified.
-IIG/RFI Response (If any):
-Not applicable.
-Final Recommendation / Conclusion:
-Based on the entity relationship analysis, transaction behavior, clearly stated OBI purpose, and alignment with the entities’ legitimate solar manufacturing and distribution activities, the detected scenarios are assessed as explainable commercial activity between related group entities. Although Cambodia is considered a higher-risk jurisdiction, the risk is mitigated by transparent transaction purpose, identifiable entities, and absence of adverse information. Accordingly, the alerts are assessed as risk-irrelevant, and the case is recommended for closure.
+The client is a 37-year-old Chinese national residing in China who is onboarding as an NTB client for the purpose of opening CASA accounts in multiple currencies, including USD, SGD, EUR, and GBP. The stated purpose of the account is savings diversification and to explore better investment opportunities in Singapore. An initial deposit of approximately SGD 200,000 is expected within six months of account opening, with funds to be transferred from a bank account held in China. The client is currently employed as a General Manager at Shandong Lanrun Food Technology Co. Ltd., operating primarily within the manufacturing industry, where he has been working since 2020. Prior to this, he was employed at Rizhao Bank from 2012 to 2020 as a manager. Overall, the client has approximately 12 years of professional experience. His average annual income over the past year is estimated at SGD 107,000, inclusive of basic salary and bonuses, while his current annual income with the present employer is approximately SGD 144,000. The client’s total net worth is estimated at SGD 515,000, accumulated mainly through savings derived from his employment income over the years. He does not hold any investments or property assets. Considering the client’s stable employment history, consistent income profile, clearly articulated purpose of account opening, and the absence of any adverse information, the client is assessed as reasonable and suitable to be onboarded.
