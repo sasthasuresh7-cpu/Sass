@@ -1,7 +1,5 @@
 
 
 
-
-The focal entity is BUSCHBECK GMBH, a German manufacturer engaged in developing and producing high-quality outdoor products, including garden barbecue fireplaces, outdoor kitchens, and modern fireplaces. The entity is located in Waldbroel, Germany, and holds its banking relationship with Volksbank Oberberg eG (DE).
-The counterparty is SHINERICH INDUSTRIAL LTD, a privately held company located in Shenzhen, China, specializing in the design, development, and manufacturing of consumer gas appliances, particularly outdoor heating, cooking, and indoor heating products.
-Based on the nature of business of both entities, the relationship appears to be trade-based, where SHINERICH INDUSTRIAL LTD acts as a manufacturer/supplier and BUSCHBECK GMBH as the buyer/importer of goods. The relationship is commercially reasonable and aligned with their respective business activities.
+A total of 5 transactions were identified between 24-Sep-2025 and 21-Oct-2025, amounting to USD 288,389.85. The funds were remitted by BUSCHBECK GMBH to SHINERICH INDUSTRIAL LTD.
+The OBI/BBI references clearly mention multiple invoice numbers, confirming that the payments were made against trade invoices. The transaction pattern is consistent, non-circular, and aligned with standard international trade payments. The transaction value appears reasonable and proportionate to the focal entity’s business scale and revenue-generating capacity
