@@ -7,3 +7,7 @@ The focal entity, ED&F Man Volcafe Ltd (Volcafe Brasil Ltda – MVB), is the Bra
 
 
 The reviewed transaction pertains to multiple inter-company fund transfers amounting to USD 30,400,000 executed across 10 instances between 04-Feb-2025 and 12-Nov-2025. The transfers are identified as internal group movements between ED & F Man group entities, specifically involving ED & F Man Volcafe Brasil Ltda and ED & F Man Brazil Volcafe, with the nature of transaction recorded as “Inter Company/Group transfer – 100%”. The remitter and beneficiary fields are marked as not applicable, indicating internal treasury movement rather than third-party settlement.
+
+
+
+The review period reflects 4 inward remittances received by the focal entity DYM Metal Co. Ltd. from Goodsmooth International Limited through banking channels in USD, aggregating to USD 416,942.36 between 03 Nov 2025 and 04 Dec 2025. The OBI references indicate payments made for goods, specifically relating to iron and steel flat-rolled alloy steel products (zinc/galvanized coated sheets of width 600 mm or more). The pattern of transactions is consistent in nature, limited in count, and aligned with the stated line of business of both parties—where the counterparty trades in steel products and the focal entity deals in materials and equipment used in insulation and waterproofing installations. The remittances appear to represent genuine trade payments routed through proper banking channels, with no unusual spikes, structuring, or deviation in transaction behavior observed during the review period.
