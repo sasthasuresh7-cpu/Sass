@@ -1,4 +1,4 @@
- 
+=XLOOKUP(B1, Sheet1!B:B, Sheet1!E:E, "") 
 
 
 
