@@ -1,7 +1,1 @@
-=XLOOKUP("*"&A2&"*", Sheet1!B:B, Sheet1!C:C, "Not Found", 2)
-
-=XLOOKUP("*"&A2&"*", Sheet1!B:B, Sheet1!D:D, "Not Found", 2)
-
-=XLOOKUP("*"&A2&"*", Sheet1!B:B, Sheet1!E:E, "Not Found", 2)
-
-=XLOOKUP("*"&A2&"*", Sheet1!B:B, Sheet1!F:F, "Not Found", 2)
+LG Electronics operates across multiple segments including home entertainment (TVs, audio systems), home appliances (refrigerators, washing machines, air conditioners), IT products (monitors, laptops), and automotive components (infotainment systems, EV parts). The company focuses on innovation-driven products, smart technology integration (IoT/AI), and energy-efficient solutions for both consumers and businesses worldwide.
