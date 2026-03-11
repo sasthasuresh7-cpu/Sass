@@ -22,3 +22,9 @@ As per the historical transaction pattern of the counterparty, most remittances 
 
 The purpose of the transactions appears to be the transfer of funds between company accounts. Such transfers are commonly observed between related or associated entities for operational requirements such as internal fund management, settlement of business obligations, treasury management, or other legitimate corporate purposes. Inter-company transfers between corporate entities, including those maintained in different jurisdictions, are a common practice in business operations.
 Further, the transactions do not indicate any unusual pattern or suspicious activity. The transferred amounts appear consistent with internal corporate fund movements, and no third-party involvement has been identified.
+
+
+
+Further, the transactions do not indicate any unusual pattern or suspicious activity. The transferred amounts appear consistent with internal corporate fund movements, and no third-party involvement has been identified.
+The BBI reference indicates [mention the purpose if available], which further supports the business nature of the transactions.
+The DS triggered: EN~FTN – Recurring OR/BE, as the focal entity has conducted recurring transfers to the counterparty. However, recurring fund movements between corporate entities are not uncommon and may occur for various legitimate operational or financial purposes. The available information and BBI reference support the business nature of these transfers. Hence, the activity does not raise significant concern in this instance, and no third-party involvement has been identified.
