@@ -1,4 +1,4 @@
-
+9
 
 
 The focal individual appears to be engaged in the real estate sector in an agency capacity. The counterparty could not be identified through publicly available sources; however, the OBI reference describes the counterparty as a friend.
@@ -17,3 +17,8 @@ Based on public domain information, Freedom Corporation s.r.o. is also engaged i
 https://www.finreg.sk/subjekt/2023023530⁠� and
 https://www.slovenskaporadna.sk/en/profil/freedom-corporation-s-r-o⁠�.
 As per the historical transaction pattern of the counterparty, most remittances received from individuals appear to be related to travel air ticket bookings. The transaction amounts are also nominal, which is typical for ticketing services. Additionally, it is common for individuals to have limited or no presence in the public domain. Considering the above findings, it appears that the individual customer Anatoliy Panchenko is remitting funds to Freedom Corporation s.r.o. for air ticketing services.
+
+
+
+The purpose of the transactions appears to be the transfer of funds between company accounts. Such transfers are commonly observed between related or associated entities for operational requirements such as internal fund management, settlement of business obligations, treasury management, or other legitimate corporate purposes. Inter-company transfers between corporate entities, including those maintained in different jurisdictions, are a common practice in business operations.
+Further, the transactions do not indicate any unusual pattern or suspicious activity. The transferred amounts appear consistent with internal corporate fund movements, and no third-party involvement has been identified.
