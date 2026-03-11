@@ -11,3 +11,9 @@ https://www.volza.com/company-profile/s-orchids-2793112/
 
 
 The focal entity UNLOQ International Company Limited has remitted multiple payments to ICE Steel 1 Private Limited. The OBI reference states “Factoring for DOOSAN BOBCAT INC”, indicating that the payments are likely settlement of factored invoices related to underlying trade between ICE Steel 1 Pvt Ltd and DOOSAN BOBCAT INC. The focal appears to act as a financing/payment intermediary facilitating invoice factoring or supply chain financing. Therefore, the reference to DOOSAN BOBCAT in the OBI represents the underlying commercial party and not a direct transaction participant. Based on the available information, the activity appears consistent with trade-related factoring payments.
+
+
+Based on public domain information, Freedom Corporation s.r.o. is also engaged in operating a travel agency, as evidenced by the following sources:
+https://www.finreg.sk/subjekt/2023023530⁠� and
+https://www.slovenskaporadna.sk/en/profil/freedom-corporation-s-r-o⁠�.
+As per the historical transaction pattern of the counterparty, most remittances received from individuals appear to be related to travel air ticket bookings. The transaction amounts are also nominal, which is typical for ticketing services. Additionally, it is common for individuals to have limited or no presence in the public domain. Considering the above findings, it appears that the individual customer Anatoliy Panchenko is remitting funds to Freedom Corporation s.r.o. for air ticketing services.
