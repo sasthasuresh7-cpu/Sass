@@ -33,3 +33,7 @@ The DS triggered: EN~FTN – Recurring OR/BE, as the focal entity has conducted 
 
 
 The OBI references indicate payments related to transportation of weighing components, electronic load cells, weight indicators, and electronic kits used for scales. Therefore, the transaction appears consistent with a commercial purchase of weighing equipment or related electronic components, suggesting a buyer–supplier relationship, where the focal entity may be procuring weighing system components or accessories from Weightech USA LLC for business or operational purposes.
+
+
+
+The alert was triggered due to recurring transactions between the originator and beneficiary. However, based on the OBI references, the payments relate to the purchase and transportation of weighing equipment components, including electronic load cells, weight indicators (WT27), and electronic kits used for scales. The counterparty, Weightech USA LLC, is identified as a distributor of weighing systems and related accessories, which aligns with the stated purpose of the transactions. The recurring nature of the transactions appears consistent with a commercial buyer–supplier relationship, where the focal entity is making periodic payments for the procurement of weighing equipment and related components. No adverse information or risk indicators have been identified from the available details. Hence, the transactions appear to be business-related and reasonable in nature, and the alert can be mitigated accordingly.
