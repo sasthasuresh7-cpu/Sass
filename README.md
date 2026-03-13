@@ -28,3 +28,8 @@ Further, the transactions do not indicate any unusual pattern or suspicious acti
 Further, the transactions do not indicate any unusual pattern or suspicious activity. The transferred amounts appear consistent with internal corporate fund movements, and no third-party involvement has been identified.
 The BBI reference indicates [mention the purpose if available], which further supports the business nature of the transactions.
 The DS triggered: EN~FTN – Recurring OR/BE, as the focal entity has conducted recurring transfers to the counterparty. However, recurring fund movements between corporate entities are not uncommon and may occur for various legitimate operational or financial purposes. The available information and BBI reference support the business nature of these transfers. Hence, the activity does not raise significant concern in this instance, and no third-party involvement has been identified.
+
+
+
+
+The OBI references indicate payments related to transportation of weighing components, electronic load cells, weight indicators, and electronic kits used for scales. Therefore, the transaction appears consistent with a commercial purchase of weighing equipment or related electronic components, suggesting a buyer–supplier relationship, where the focal entity may be procuring weighing system components or accessories from Weightech USA LLC for business or operational purposes.
