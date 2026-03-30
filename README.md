@@ -2,3 +2,7 @@
 
 
 The recurring originator and beneficiary relationship observed in this case is justified by the underlying business activity, wherein the focal entity (WTA) is responsible for distributing tournament prize money to participating players. The counterparty, being a professional tennis player, receives payouts corresponding to performance in various tournaments. The transaction descriptions clearly reference official WTA events, establishing a legitimate and transparent source of funds. The recurring nature is therefore expected and aligned with the standard operational framework of sports tournament payouts. No anomalies or inconsistencies have been identified, and the alert can be reasonably mitigated as risk irrelevant.
+
+
+
+Based on the similarity in naming conventions, there is a strong likelihood that both parties share a familial relationship, which supports the nature of the transfer. Additionally, the Originator to Beneficiary Information (OBI) clearly states “home fees” as the purpose of the transaction, indicating that the funds are intended for personal or household-related expenses. Such transfers are common among relatives and align with expected financial behavior. Therefore, considering the disclosed purpose and the probable relationship between the parties, the transaction is assessed as legitimate with no significant indicators of financial crime or unusual activity.
