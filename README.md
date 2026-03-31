@@ -9,3 +9,8 @@ Based on the similarity in naming conventions, there is a strong likelihood that
 
 
 The alert for recurring originator and beneficiary between NOTSHE NANDIPHA (focal) and NOTSHE HLUMELO (counterparty) has been reviewed and assessed. The transactions appear to be conducted between individuals who likely share a familial relationship, as indicated by the similarity in naming conventions. Furthermore, the Originator to Beneficiary Information (OBI) references “home fees,” suggesting that the transfers are made for regular household or personal expense support. Such recurring transactions are consistent with expected behavior in cases involving family support or shared financial responsibilities. The frequency and pattern of transactions do not indicate structuring or layering but rather reflect a stable and legitimate purpose. Hence, the activity is considered reasonable, and the alert can be mitigated with no suspicion of financial crime.
+
+
+
+
+However, based on the similarity in naming conventions, it is reasonable to infer that both parties may share a familial relationship, which is common in cross-border personal remittances. The transaction flow from South Korea to the United States further supports the possibility of funds being transferred for legitimate personal purposes, such as family maintenance, living expenses, or educational support, particularly given the frequent movement of individuals between these two jurisdictions for higher studies and settlement. In the absence of any adverse media, sanctions exposure, or indicators of commercial activity between the parties, the nature of the transactions appears consistent with non-commercial, relationship-driven fund transfers.
