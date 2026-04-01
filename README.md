@@ -42,3 +42,7 @@ IIG/RFI response (If any):
 NA
 Final Recommendation / Conclusion:
 Based on the available information, the transactions are assessed to be legitimate intercompany transfers between related entities within the ALMACO group. The transaction pattern, volume, and purpose are consistent with internal treasury and operational requirements. Hence, the activity appears reasonable with no indicators of suspicious behavior.
+
+
+
+Gaviota is an insurance company owned by Repsol, created to manage Repsol’s risks, while Repsol itself is a global energy company involved in oil, gas, and cleaner energy operations.
