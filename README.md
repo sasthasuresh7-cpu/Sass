@@ -40,3 +40,25 @@ Based on the available information, the transactions appear to be consistent wit
 
 
 The recurring transactions between the focal entity and the counterparty are assessed as reasonable and consistent with an established business relationship. The focal entity operates in the sports infrastructure domain and regularly procures sports goods and equipment from the China-based manufacturer. The observed payments are supported by invoice references (as per OBI), indicating settlement of legitimate business obligations. The frequency and pattern of transactions align with normal commercial activity, thereby mitigating the concern of recurring originator and beneficiary.
+
+
+
+
+
+
+• Detection Scenarios (List Triggered DS): EN~FTN – Recurring OR/BE
+• Justification for CP selection (If any): NA
+• Profile - Main Entity & Counterparty details/Relationship:
+The focal entity, Mohamed Ziyaf Ahamed Abdulla, based in Papua New Guinea, and the counterparty, A.A.A Ziyaf, based in Sri Lanka, could not be identified from the public domain. However, based on the similarity in naming conventions, the parties appear to share a familial relationship. The cross-border linkage further supports the likelihood of personal remittance between related individuals.
+• Transaction Analysis / Trend & Pattern:
+A total of 7 transactions amounting to USD 17,452.08 were observed during the period from 02-Feb-2026 to 13-Mar-2026, with funds remitted from the focal entity to the counterparty. The transactions show a consistent pattern of transfers to a single beneficiary. The OBI reference explicitly mentions “family maintenance,” indicating that the transactions are for personal support purposes.
+• Red Flags (If any):
+No significant red flags identified.
+• Watchlist Screening (Accuity / Kharon / World Check) & Adverse hits (If any):
+No relevant hits found.
+• Prior RR (If any):
+No prior RR available as per ECM.
+• IIG/RFI response (If any):
+NA
+Final Recommendation / Conclusion:
+Based on the available information, the transactions are consistent with personal remittance activity between related individuals, supported by naming conventions and OBI details. The observed recurring pattern aligns with family maintenance payments and does not indicate any unusual or suspicious activity. Hence, the alert is assessed as reasonable.
