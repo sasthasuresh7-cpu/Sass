@@ -2,3 +2,31 @@ The focal entity, Gaviota Re, is a reinsurance company and a wholly owned subsid
 
 
 The transactions under review are intercompany in nature, supported by a clear and established business relationship, and align with the expected operational activities of a captive insurer, such as premium settlements and internal risk coverage. Additionally, there are no adverse media, sanctions concerns, or unusual transaction patterns identified
+
+
+
+
+
+
+
+
+
+
+
+
+Detection Scenarios (List Triggered DS): EN~FTN – Recurring OR/BE
+• Justification for CP selection (If any): NA
+• Profile - Main Entity & Counterparty details/Relationship:
+The focal entity, Golf Green City, is based in France and operates as a specialist in the sale and installation of synthetic turf and sports infrastructure, including 5-a-side football and padel courts. The counterparty, Cangzhou Zhenghui Sports Goods Co., Ltd., is a China-based manufacturer of sports goods and training equipment, including protective gear and related supplies. The relationship between the entities appears to be business-oriented, wherein the focal entity procures sports goods and equipment from the counterparty to support its installation and sports infrastructure activities.
+• Transaction Analysis / Trend & Pattern:
+A total of 3 transactions amounting to USD 85,788 were observed during the period from 22-Jan-2026 to 11-Feb-2026, with funds remitted from the focal entity to the counterparty. The transactions reflect a consistent payment pattern towards a single overseas supplier. The OBI references such as “invoice balance” and specific invoice numbers indicate that the payments are made for settlement of business-related invoices, aligning with the stated line of business and commercial relationship.
+• Red Flags (If any):
+No significant red flags identified.
+• Watchlist Screening (Accuity / Kharon / World Check) & Adverse hits (If any):
+No relevant hits found.
+• Prior RR (If any):
+No prior RR available as per ECM.
+• IIG/RFI response (If any):
+NA
+Final Recommendation / Conclusion:
+Based on the available information, the transactions appear to be consistent with the stated business activities and represent legitimate payments for invoice settlement between the focal entity and its supplier. Hence, the activity is assessed as reasonable with no indicators of suspicious behavior.
