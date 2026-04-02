@@ -1,1 +1,5 @@
 The recurring transactions between the originator and beneficiary are assessed as reasonable and consistent with a familial relationship. The similarity in naming conventions indicates that both parties are likely related, and the cross-border nature of the transfers aligns with typical personal remittance behavior. Additionally, the OBI reference stating “family maintenance” supports the purpose of the transactions. The frequency and pattern of transfers are in line with ongoing financial support between family members, thereby mitigating the concern of recurring originator and beneficiary.
+
+
+
+The involvement of Papua New Guinea, identified as a high-risk jurisdiction, is noted in the transaction flow. However, the observed activity appears to be consistent with personal remittance between individuals with a likely familial relationship, as supported by similar naming conventions and OBI references indicating “family maintenance.” The transactions are directed to Sri Lanka, a different jurisdiction, and follow a regular and reasonable pattern without any unusual
