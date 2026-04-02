@@ -30,3 +30,13 @@ No prior RR available as per ECM.
 NA
 Final Recommendation / Conclusion:
 Based on the available information, the transactions appear to be consistent with the stated business activities and represent legitimate payments for invoice settlement between the focal entity and its supplier. Hence, the activity is assessed as reasonable with no indicators of suspicious behavior.
+
+
+
+
+
+
+
+
+
+The recurring transactions between the focal entity and the counterparty are assessed as reasonable and consistent with an established business relationship. The focal entity operates in the sports infrastructure domain and regularly procures sports goods and equipment from the China-based manufacturer. The observed payments are supported by invoice references (as per OBI), indicating settlement of legitimate business obligations. The frequency and pattern of transactions align with normal commercial activity, thereby mitigating the concern of recurring originator and beneficiary.
