@@ -17,3 +17,7 @@ IIG/RFI response (If any):
 NA
 Final Recommendation / Conclusion:
 Considering the apparent familial relationship between the parties, the stated purpose of funds aligned with property construction, and the absence of any adverse information, the transactions appear reasonable in nature. The recurring nature of transactions is justified by the underlying purpose and does not raise suspicion. Hence, the alert can be reasonably closed with no further action required.
+
+
+
+The transactions involve fund transfers to Egypt, which is classified as a high-risk jurisdiction. However, the transfers are between individuals who, based on naming conventions, appear to share a familial relationship, and the stated purpose of the transactions—construction of residential property—reflects a personal investment rather than a commercial or high-risk business activity. The funds are routed through established banking channels, and no adverse information or negative news has been identified for either party. Additionally, the transaction pattern is consistent with staged payments typically associated with construction activities. Therefore, despite the involvement of a high-risk jurisdiction, the overall context, transparency of purpose, and absence of suspicious indicators mitigate the associated risk.
