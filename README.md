@@ -41,3 +41,10 @@ Regarding the involvement of high-risk jurisdictions, it is noted that both Vene
 knowyourcountry.com +1
 lawsociety.org.uk +1
 In conclusion, the transactions appear to be bona fide business payments linked to logistics and trade activities, with the recurring pattern and jurisdictional exposure adequately mitigated by the customer’s established business profile, transparency of transaction purpose, and lack of negative indicators.
+
+
+
+
+Based on the transaction review, the focal individual, CHEAV EANG, has been identified as a businesswoman as per the RM’s response. The counterparty, Interactive Brokers LLC, is a well-established financial services broker engaged in providing trading and investment platforms across global markets. The transactions reflect fund remittances from the individual to the broker, which is consistent with legitimate investment or trading activity. Accordingly, the purpose of the transactions appears reasonable and aligned with the customer’s profile.
+With respect to the DS alert triggered for recurring originator and beneficiary, the repeated transactions between the same parties are justified given the nature of investment activities, where clients typically maintain ongoing funding relationships with brokerage accounts. This pattern is therefore considered expected and does not, in isolation, indicate suspicious activity.
+Regarding the involvement of Cambodia, although classified as a high-risk jurisdiction, the customer’s profile as a businesswoman provides reasonable context for cross-border financial activity. Furthermore, the funds are directed towards a regulated and reputed financial institution in the United States, which reduces the overall risk. No adverse information has been identified in relation to the counterparty, and the transaction flow does not exhibit characteristics of layering or obfuscation.
