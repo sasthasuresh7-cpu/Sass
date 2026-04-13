@@ -1,1 +1,4 @@
 
+The detection scenario for recurring originator and beneficiary is mitigated by the presence of a consistent commercial relationship between the involved parties. The repeated transactions are indicative of ongoing trade dealings, likely involving multiple shipments, bulk procurement, or installment-based payments for electronic goods.
+Such recurrence is expected in import-export businesses, especially within the electronics industry where continuous supply, inventory replenishment, and phased payments are standard practices.
+There are no apparent deviations in transaction pattern, counterparties, or purpose, and the activity aligns with the established business profile of both entities. Hence, the recurring nature of transactions does not, in isolation, indicate suspicious activity.
