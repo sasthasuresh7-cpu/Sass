@@ -5,3 +5,9 @@ There are no apparent deviations in transaction pattern, counterparties, or purp
 
 
 The customer, Sheetal Nirav Bajaj, is identified as a homemaker with an estimated wealth of USD 5,263,097 and an estimated annual income of USD 69,500. The primary objective of opening the joint account is for savings and investments, with expected exposure to products such as bonds, equities, and mutual funds in Singapore, a well-regulated jurisdiction. The initial funding is proposed to be transferred from an existing Standard Chartered Bank account, which provides some comfort regarding the source of funds. However, a notable disparity between the relatively modest annual income and significantly high estimated wealth necessitates further clarification on the source of wealth. Additionally, the absence of a publicly identifiable profile and limited information on watchlist screening and adverse media checks reduce overall transparency
+
+
+
+
+
+The detection scenario for recurring originator and beneficiary activity is mitigated by the fact that 100% of the transactions are interpersonal transfers, indicating a consistent and non-commercial transaction pattern. The activity aligns with the customer’s stated purpose of managing personal finances and investments through a joint account. Additionally, the transfers are expected to be funded from the customer’s existing Standard Chartered Bank account, providing comfort on the source of funds and reducing third-party risk. There is no indication of involvement of high-risk jurisdictions or unknown counterparties based on the available information. Therefore, the recurring transaction pattern appears reasonable and can be considered low to moderate risk, subject to ongoing monitoring and confirmation that the counterparties remain known and consistent with the customer’s profile.
