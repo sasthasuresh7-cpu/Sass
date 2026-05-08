@@ -18,4 +18,39 @@ The detection scenario for recurring originator and beneficiary activity is miti
 Based on the transaction analysis and LexisNexis findings, the focal entity, Juan Carlos Avina Gonzalez (Mexico), has remitted funds to AVINA Group LLC (US) through Ozark Mountain Bank. The transactions (3 in count, totaling USD 9,100) are categorized as inter-personal transfers with the stated purpose as “Loan” (OBI reference: “PRESTAMO”). Background checks indicate no adverse media or sanctions hits for either party. Additionally, LexisNexis identifies that the focal entity is acting as a registered agent to the counterparty, which establishes a plausible business or administrative relationship between the parties. Although detailed business activity for the focal entity could not be identified in the public domain, the linkage as a registered agent provides reasonable context for the fund flow
 
 
+
+
+• Detection Scenarios (List Triggered DS):
+EN~FTN – Recurring OR/BE.
+
+• Justification for CP selection (If any):
+Counterparty selected as the beneficiary receiving recurring cross-border remittances from Turkey to Australia during the review period.
+
+• Profile - Main Entity & Counterparty details/Relationship:
+Main entity AYDA AS, located in Turkey (TR), remitted funds to counterparty AYCA MORRIS located in Australia (AU). Both parties could not be independently identified from public domain sources; however, nationality/location details indicate linkage to Turkey and Australia respectively. Based on the transaction narration and OBI details, the relationship appears familial and connected to inheritance-related proceeds following the death of their mother.
+
+• Transaction Analysis / Trend & Pattern:
+Review identified 3 outward remittance transactions amounting to USD 183,162.55 from Turkey to Australia during Mar-2026. Transaction narrations/OBI references indicate inheritance entitlement and proceeds from sale/distribution of inherited property after the death of the parties’ mother. Historical review identified only the same transactions currently under review and no additional historical transactional activity was observed between the parties. This appears to be the first occurrence of such transaction activity in the account history. Transaction pattern appears consistent with family/inheritance-related fund transfer activity and no unusual structuring pattern was identified. The DS pertaining to recurring originator and beneficiary activity is mitigated as the transactions reflect a consistent remitter-beneficiary relationship with a logical economic purpose supported through payment narration/OBI details.
+
+• Red Flags (If any):
+No material AML red flags identified from the available information. Moderate risk noted due to high-value cross-border remittances and inability to identify parties through public domain sources.
+
+• Watchlist Screening (Accuity / Kharon / World Check) & Adverse hits (If any):
+No relevant watchlist, sanctions, or adverse media hits identified.
+
+• Prior RR (If any):
+No prior RR cases available as per ECM.
+
+• IIG/RFI response (If any):
+N/A.
+
+Final Recommendation / Conclusion:
+Based on the available information, the transactions appear consistent with inheritance/family-related fund transfers associated with proceeds from inherited assets/property following the death of the parties’ mother. Historical review identified only the current transactions with no additional historical activity noted, indicating this to be the first occurrence of such transfers. The recurring originator-beneficiary scenario is reasonably mitigated through the consistent transactional relationship and supporting payment narration evidencing inheritance-related transfers. No adverse media, sanctions exposure, or suspicious transaction behaviour identified. Hence, the alert may be considered risk irrelevant and can be closed.
+
 The alert for recurring transactions between the same originator and beneficiary is mitigated by the established relationship between the focal entity and the counterparty, as evidenced by the registered agent linkage. The transaction pattern (low volume, limited count, and moderate value) is consistent with personal or internal financial support, such as loans, rather than indicative of layering or structuring. The absence of negative news, sanctions, or high-risk jurisdictional concerns further reduces ML/TF suspicion. Given the declared purpose (“loan”), consistent counterparty, and supporting relationship evidence, the activity appears reasonable and does not exhibit characteristics of suspicious behavior. Hence, the alert can be reasonably closed with no further escalation required.
+
+
+
+
+
+
