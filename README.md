@@ -52,5 +52,10 @@ The alert for recurring transactions between the same originator and beneficiary
 
 
 
+The client is identified as the Business Supervisor and a 30% shareholder of Han Chuan Inc., a company established in 1982 with an initial capital of SGD 100,000. The company currently reports an annual turnover of approximately SGD 12 million with 7 employees. The client’s declared annual income of SGD 250,000 is derived from business revenue, which appears broadly consistent with the nature and scale of the business operations. The long-standing operational history of the company supports the legitimacy of the client’s source of wealth and business profile.
+
+
+
+
 
 
