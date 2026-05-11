@@ -80,5 +80,9 @@ Considering the customer’s profile, source of wealth, historical employment ba
 
 
 
+However, the transaction appears to be related to a legitimate investment activity in the form of “Fund Subscription” with ASGARD Opportunity Fund SPC – Uranus Fund Segregated Portfolio. The relationship between the focal entity and the counterparty has been previously explained through RFI response, and the client’s declared source of wealth, investment profile, and net worth are consistent with the transaction value. Furthermore, no adverse media, sanctions linkage, or negative watchlist hits were identified on either the focal entity or the counterparty.
+
+
+
 
 
