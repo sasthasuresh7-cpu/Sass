@@ -62,3 +62,7 @@ No prior RR details were available as per ECM for both the focal entity and the 
 NA
 Final Recommendation / Conclusion:
 Based on the available information, the transactions appear to be consistent with possible trade/business-related activity between the focal entity in the US and the Nepal-based counterparty. No adverse media, sanctions, or watchlist hits were identified, and historical activity is limited only to the transactions reviewed in the current case. Hence, the alert may be closed with no further escalation at this stage.
+
+
+Mitigation for DS – Recurring Originator and Beneficiary:
+Recurring transactions were observed between the same originator and beneficiary; however, the transaction references contain business-related narrations such as “TRADE”, “TRADE BUSINESS”, and “Trade - Investment”. The counterparty business presence was identified from public domain sources, and no adverse media or watchlist hits were identified against either party. Additionally, historical review identified only the same three transactions covered under the current case with no additional unusual activity observed. Hence, the recurring pattern appears consistent with an ongoing business relationship.
