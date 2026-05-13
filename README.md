@@ -41,3 +41,24 @@ No prior RR available as per ECM.
 N/A.
 Final Recommendation / Conclusion:
 The reviewed activity appears consistent with donation-related payments made to a religious organization, supported by the transaction narration “TITHES” and the counterparty’s publicly available organizational profile. Although the counterparty operates within a high-risk business category (charity/religious organization), the transactional behavior observed is limited, consistent, and aligned with the apparent purpose of the payments. No adverse media, sanctions concerns, or suspicious transactional indicators were identified. Accordingly, the activity appears reasonable based on the available information and can be mitigated with low concern.
+
+
+
+
+
+Detection Scenarios (List Triggered DS): EN~FTN - Recurring OR/BE
+• Justification for CP selection (If any): NA
+• Profile - Main Entity & Counterparty details/Relationship:
+The focal entity identified as DORJEE KHA, located in the US, has remitted funds to THE HIMALAYAN FELT COMPANY, located in Nepal. The counterparty is engaged in the business of manufacturing high quality felt toys which are magical, educational and ethically made, as identified from the public domain. The focal entity line of business could not be identified from the public domain. The transactions were processed through ASCENDANTFX CAPITAL USA, INC (US) and NEPAL INVESTMENT MEGA BANK LTD (NP). No direct adverse relationship between the parties was identified from the available information.
+• Transaction Analysis / Trend & Pattern:
+The current case consists of 3 outward remittance transactions amounting to USD 21,000 conducted between 20-Mar-26 and 10-Apr-26 from the US to Nepal. The transaction references/OBI mention terms such as “TRADE”, “TRADE BUSINESS”, and “Trade - Investment”, indicating possible business-related payments. Historical transaction review identified only 3 transactions, which are the same transactions covered under the current review, and no additional historical transactions were observed. The activity reflects a recurring outward remittance pattern between the same originator and beneficiary.
+• Red Flags (If any):
+Recurring outward remittances were observed between the same originator and beneficiary. Additionally, the focal entity’s line of business could not be identified from the public domain. However, the transaction purpose indicated in the OBI appears business related and the counterparty business presence was identified from public sources.
+• Watchlist Screening (Accuity / Kharon / World Check) & Adverse hits (If any):
+No relevant watchlist or adverse media hits were identified for the focal entity or counterparty based on the available screening results.
+• Prior RR (If any):
+No prior RR details were available as per ECM for both the focal entity and the counterparty.
+• IIG/RFI response (If any):
+NA
+Final Recommendation / Conclusion:
+Based on the available information, the transactions appear to be consistent with possible trade/business-related activity between the focal entity in the US and the Nepal-based counterparty. No adverse media, sanctions, or watchlist hits were identified, and historical activity is limited only to the transactions reviewed in the current case. Hence, the alert may be closed with no further escalation at this stage.
