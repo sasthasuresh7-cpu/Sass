@@ -1,0 +1,22 @@
+Detection Scenarios (List Triggered DS):
+EN – FTN – Recurring OR/BE.
+Justification for CP selection (If any):
+The counterparty RIGGING INDUSTRIAL DE MEXICO was selected for review as the entity is the recurring beneficiary in the reviewed transactions involving cross-border remittances from the focal entity IMG NA LLC.
+Profile - Main Entity & Counterparty details/Relationship:
+The focal entity IMG NA LLC is a US-based system integrator located in the Metro Detroit area, specializing in manufacturing custom automation equipment and robot integration since 2016. The entity appears to be engaged in legitimate industrial automation and manufacturing support activities. The counterparty, RIGGING INDUSTRIAL DE MEXICO (RIM), is based in Queretaro, Mexico, and has approximately 25 years of experience in industrial movement services, including plant relocation, machinery movement, fabrication, and welding services. Based on the nature of business activities of both entities, the relationship appears commercially reasonable, wherein the focal entity may be engaging the counterparty for industrial installation, machinery movement, or manufacturing-related operational support services.
+Transaction Analysis / Trend & Pattern:
+Review of the transaction activity identified a total of 3 cross-border transactions conducted between 30-Mar-2026 and 24-Apr-2026 amounting to USD 233,776.80, wherein IMG NA LLC remitted funds to RIGGING INDUSTRIAL DE MEXICO in Mexico. The transaction pattern reflects recurring payments to the same beneficiary, which appears consistent with an ongoing business relationship and operational requirement between the entities. The transaction values appear proportionate considering the industrial automation and machinery movement services provided by the counterparty. No unusual spikes, abrupt changes in transaction behavior, or structuring indicators were identified from the available information. Further, the activities observed appear aligned with the stated business profiles of both entities.
+Red Flags (If any):
+Recurring cross-border remittances to a beneficiary located in a high-risk jurisdiction were noted. However, no additional adverse indicators such as unusual transaction structuring, sanctioned involvement, shell entity indicators, or negative media references were identified from the available information.
+Watchlist Screening (Accuity / Kharon / World Check) & Adverse hits (If any):
+No relevant adverse media, sanctions, or watchlist hits were identified for either the focal entity or the counterparty based on the available screening results.
+Prior RR (If any):
+No prior RR available as per ECM.
+IIG/RFI response (If any):
+NA.
+Final Recommendation / Conclusion:
+Based on the available information, the focal entity and counterparty appear to be legitimate business entities operating in related industrial sectors. The reviewed transactions reflect a consistent business relationship involving industrial and machinery-related services. The transaction activity does not exhibit significant indicators of suspicious behavior apart from the recurring payment pattern inherent to ongoing business operations. In the absence of adverse screening results or material inconsistencies, the activity appears reasonable and commensurate with the stated nature of business.
+Mitigation for Recurring Originator and Beneficiary DS:
+The recurring originator and beneficiary relationship observed in the reviewed transactions appears attributable to an ongoing commercial relationship between IMG NA LLC and RIGGING INDUSTRIAL DE MEXICO for industrial automation, machinery movement, and related operational services. The transaction frequency and values appear consistent with legitimate business operations and do not indicate unusual or suspicious transactional behavior.
+Mitigation for High Risk Country – Mexico:
+Although the transactions involve Mexico, which is categorized as a high-risk jurisdiction from an AML perspective, the counterparty appears to be a legitimate industrial service provider with an established business presence and publicly available operational profile. The transaction activity is consistent with the stated nature of business between the entities, and no adverse media, sanctions exposure, or suspicious transactional indicators were identified from the review. Accordingly, the geographic risk appears reasonably mitigated in the context of the underlying business relationship.
