@@ -20,3 +20,29 @@ Mitigation for Recurring Originator and Beneficiary DS:
 The recurring originator and beneficiary relationship observed in the reviewed transactions appears attributable to an ongoing commercial relationship between IMG NA LLC and RIGGING INDUSTRIAL DE MEXICO for industrial automation, machinery movement, and related operational services. The transaction frequency and values appear consistent with legitimate business operations and do not indicate unusual or suspicious transactional behavior.
 Mitigation for High Risk Country – Mexico:
 Although the transactions involve Mexico, which is categorized as a high-risk jurisdiction from an AML perspective, the counterparty appears to be a legitimate industrial service provider with an established business presence and publicly available operational profile. The transaction activity is consistent with the stated nature of business between the entities, and no adverse media, sanctions exposure, or suspicious transactional indicators were identified from the review. Accordingly, the geographic risk appears reasonably mitigated in the context of the underlying business relationship.
+
+
+
+
+Detection Scenarios (List Triggered DS):
+EN – FTN – Recurring OR/BE.
+Justification for CP selection (If any):
+The counterparty AGRICOLA AGRORAM SPR DE RL DE CV was selected for review as the entity was identified as a recurring beneficiary in multiple cross-border transactions involving the focal entity.
+Profile - Main Entity & Counterparty details/Relationship:
+The focal entity, LAKEWAY FOODS LLC, is a US-based entity engaged in the supply and distribution of fresh produce directly sourced from farms, including fruits and vegetables targeted toward health-conscious consumers and local businesses. The counterparty, AGRICOLA AGRORAM SPR DE RL DE CV, is based in Mexico and is engaged in the agricultural sector under HS Code 07 relating to vegetables and edible roots and tubers. Based on the publicly available information and the aligned nature of business activities, the relationship between the focal entity and counterparty appears commercially reasonable, likely involving procurement or supply of agricultural produce from Mexico to support the focal entity’s produce distribution operations in the United States.
+Transaction Analysis / Trend & Pattern:
+Review of the transaction activity identified 7 transactions conducted between 19-Mar-2026 and 24-Apr-2026 amounting to USD 360,191.00, wherein LAKEWAY FOODS LLC remitted funds to AGRICOLA AGRORAM SPR DE RL DE CV in Mexico. The transactions demonstrate a recurring payment pattern to the same beneficiary, which appears consistent with an ongoing supplier or trade relationship in the agricultural and produce sector. The frequency and transaction values appear reasonable considering the nature of cross-border produce procurement and supply chain operations. No significant deviation in transactional behavior, unusual spikes, rapid movement of funds, or structuring indicators were identified from the available information. The overall activity appears aligned with the stated business operations of both entities.
+Red Flags (If any):
+Cross-border recurring payments to a beneficiary located in a high-risk jurisdiction were identified. However, no additional suspicious indicators such as sanctions exposure, adverse media, shell company indicators, or unusual transactional layering were observed from the review.
+Watchlist Screening (Accuity / Kharon / World Check) & Adverse hits (If any):
+No relevant adverse media, sanctions, or watchlist hits were identified for either the focal entity or the counterparty based on the available screening results.
+Prior RR (If any):
+No prior RR available as per ECM.
+IIG/RFI response (If any):
+NA.
+Final Recommendation / Conclusion:
+Based on the available information, both the focal entity and the counterparty appear to be legitimate businesses operating within the agricultural and produce supply sector. The reviewed transaction activity reflects a recurring commercial relationship consistent with cross-border procurement and supply of agricultural products. The transaction pattern, values, and business rationale appear reasonable and aligned with the stated nature of business activities. No material adverse information or significant suspicious indicators were identified during the review.
+Mitigation for Recurring Originator and Beneficiary DS:
+The recurring originator and beneficiary activity appears attributable to an ongoing and established business relationship between LAKEWAY FOODS LLC and AGRICOLA AGRORAM SPR DE RL DE CV for the procurement and supply of agricultural produce. The transaction frequency and values appear commercially reasonable and consistent with legitimate trade-related business operations.
+Mitigation for High Risk Country – Mexico:
+Although the transactions involve Mexico, which is considered a high-risk jurisdiction from an AML perspective, the counterparty appears to be a legitimate agricultural entity with business operations consistent with the nature of the reviewed transactions. The payments appear related to genuine cross-border trade activities involving produce procurement, and no adverse media, sanctions exposure, or suspicious transactional behavior was identified. Accordingly, the geographic risk associated with Mexico appears reasonably mitigated in the context of the established business relationship and underlying commercial purpose.
