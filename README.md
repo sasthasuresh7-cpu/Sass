@@ -14,3 +14,9 @@ Final Recommendation / Conclusion:
 Based on the available information, the reviewed activity appears consistent with personal financial or investment-related transfers conducted by the focal entity between associated banking relationships. The naming convention and address details support linkage to Romania, and the payment narrations indicate investment or proceeds-related purposes. Although the focal entity could not be independently identified from public sources, no adverse information, sanctions exposure, or suspicious transactional characteristics were identified. The transaction activity appears reasonable in the context of personal investment-related fund movements and does not presently indicate heightened money laundering concerns.
 Mitigation for Recurring Originator and Beneficiary DS:
 The recurring originator and beneficiary pattern appears attributable to transfers involving accounts associated with the same focal entity for personal financial management and investment-related purposes. Historical activity reflects limited recurring transactions with consistent account relationships and transaction narrations aligned with personal investments and sale proceeds. No unusual third-party involvement or suspicious fund flow patterns were identified from the review.
+
+
+
+
+
+The recurring transaction activity observed between the same originator and beneficiary appears reasonable and is supported by the customer profile and business relationship. The transactions were carried out towards invoice payments, software architecture, coding, and strategic technology consulting services as explained in the prior RM response. The frequency, transaction references, and payment amounts are consistent with ongoing contractual and milestone-based business activities; hence, the recurring nature does not appear unusual
