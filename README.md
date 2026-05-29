@@ -3,3 +3,10 @@ Although the counterparty operates in the real estate sector, which is generally
 
 
 Based on the review of prior risk relevant case CA40580228, the focal customer YANG YU (“YU”) was identified as being associated with YOCEAN GROUP LIMITED (“YOCEAN”), an entity reportedly linked to alleged corruption-related activities in Kenya. Historical reviews highlighted significant fund movements from YOCEAN to YU’s personal accounts, followed by rapid transfers to external accounts in Kenya and the United Kingdom without clear economic rationale, indicating potential layering activities. Additionally, inconsistencies were noted in YU’s transactional profile, including the use of high-risk jurisdictions, cyclical movement of funds across multiple jurisdictions, and adverse information relating to YOCEAN. The prior case also noted concerns regarding possible fabrication of supporting documentation and absence of satisfactory response to the RFI raised with the bank. Given the customer’s continued association with YOCEAN and the previously identified adverse risk indicators, the current activity warrants escalation for further review to assess potential money laundering and concealment of illicit proceeds.
+
+
+
+
+
+
+The focal entity, Interactive Brokers LLC (US-based brokerage firm), received funds from Mohit Bhargava (UAE) through Emirates NBD Bank PJSC, UAE. The counterparty's profile, source of wealth/source of funds, and business activities could not be independently identified from public domain sources. An RFI was raised with Emirates NBD Bank seeking additional KYC information and supporting details on the remitter; however, no response has been received to date. Consequently, the recent relationship review (RR) could not be completed and the legitimacy of the underlying transaction remains unsubstantiated. Given the inability to establish the counterparty profile and the outstanding RFI, the alert cannot be reasonably discounted and is therefore escalated for further review and decision.
